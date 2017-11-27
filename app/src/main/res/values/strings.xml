@@ -1,0 +1,37 @@
+<resources>
+    <!-- TODO:
+            PREFIX FORMAT
+            ====================================
+            for TextView : label_
+            for Button : btn_
+            for EditText Hint : hint_
+            for All Errors : error_[cause]
+            for Tab   : tab_
+            for Action Bar Menu : action_
+            for Menu : menu_
+            for Sample : sample_
+            for Activity Title : activity_title_
+
+        -->
+
+    <!--app messages-->
+
+    <string name="message_valid_email">Please input a valid email address</string>
+    <string name="message_password_not_valid">Password must have at least an uppercase character, a number and 8 character length minimum</string>
+    <string name="message_field_required">This Field cannot be empty</string>
+    <string name="message_no_data">Tidak ada data saat ini</string>
+    <string name="message_invalid_response">Respon tidak valid</string>
+    <string name="message_unable_to_connect">Tidak dapat terhubung ke server</string>
+    <string name="message_no_internet">Tidak ada internet</string>
+
+    <string name="message_contact_us_message_sent">Thank you, Your message has been sent</string>
+    <string name="message_change_password_success">Password Successfully changed</string>
+    <string name="new_password_not_identical">New password and its confirmation are not identical</string>
+    <string name="message_terms_condition">You need to accept the terms and condition to complete the registration</string>
+
+    <!---->
+
+    <string name="app_name">Starter</string>
+    <string name="error">An Error occurred please try again in a while</string>
+    <string name="please_wait">Please Wait &#8230;</string>
+</resources>
