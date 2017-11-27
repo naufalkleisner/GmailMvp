@@ -61,7 +61,7 @@ public class DetailActivity extends BaseActivity implements DetailView {
 
         tvTitle.setText(message.getFrom());
         tvSubtitle.setText(message.getSubject());
-        tvSubtitle.setText(message.getMessage());
+        tvIsi.setText(message.getMessage());
 
 
     }
