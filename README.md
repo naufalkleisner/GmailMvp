@@ -1,4 +1,4 @@
-This is a Starter Project for android application development @NusantaraBeta Studio, This Project implement the MVP Pattern, you could refer to this following links:
+
 - https://github.com/MindorksOpenSource/android-mvp-architecture
 
 this project also including these following dependencies:
